@@ -25,7 +25,7 @@ ui <- fluidPage(
         ))
     ),
 
-    titlePanel("ระบบแสดงดัชนีความเสี่ยงศัตรูข้าว (Pest Risk Index)"),
+    titlePanel("แผนที่ดัชนีความเสี่ยงศัตรูข้าว (Pest Risk Index)"),
 
     sidebarLayout(
         sidebarPanel(
